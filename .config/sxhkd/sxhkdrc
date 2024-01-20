@@ -1,0 +1,11 @@
+super + shift + e
+	emacsclient -c
+super + shift + Return
+	nemo
+super + b
+	brave
+control + shift + r
+	reboot
+control + shift + s
+	shutdown now
+

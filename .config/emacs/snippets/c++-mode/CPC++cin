@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name:CPC++cin
+# key:cin
+# --
+
+cin >> $0
